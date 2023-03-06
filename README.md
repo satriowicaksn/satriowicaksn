@@ -1,5 +1,27 @@
 ### Hi Satrio there 👋
 
+ <img src="https://gpvc.arturio.dev/satriowicaksm" align="center">
+ 
+ <p align="left">My name is Satrio Putro Wicaksono and I'm a Software Engineer.
+  
+  I'm from Indonesia, living in Malang, East Java and currently studying Information Systems and Cloud Computing.
+  
+</p>
+
+🌱 I’m currently learning NodeJS, Go, and Python
+
+👯 I’m looking to collaborate on different projects
+
+👨‍💻 All of my projects are available at [my website](https://satriowicaksono.my.id)
+
+📝 I actively post on [LinkedIn](https://www.linkedin.com/in/satrio-putro-wicaksono-051a50183)
+
+📫You can reach me at satriowicaksono076@gmail.com
+
+⚡ Fun fact  - I like Hiking and You
+
+<br>
+
 ## GitHub Stats 📈
 
 <a href="https://github.com/satriowicaksn/satriowicaksn">
