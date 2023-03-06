@@ -18,3 +18,28 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satriowicaksn&theme=dark" alt="Satrio's GitHub Streak Stats"/>
 </a>
 <br><br>
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
+🌆 Daytime    74 commits     ████████████░░░░░░░░░░░░░   49.33% 
+🌃 Evening    45 commits     ███████░░░░░░░░░░░░░░░░░░   30.0% 
+🌙 Night      21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.0%
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.67% 
+Tuesday      40 commits     ██████░░░░░░░░░░░░░░░░░░░   26.67% 
+Wednesday    16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.67% 
+Thursday     32 commits     █████░░░░░░░░░░░░░░░░░░░░   21.33% 
+Friday       8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.33% 
+Saturday     7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.67% 
+Sunday       34 commits     █████░░░░░░░░░░░░░░░░░░░░   22.67%
+```
+
+#### Trophies
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satriowicaksn&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt="satriowicaksn"></a></p>
+
