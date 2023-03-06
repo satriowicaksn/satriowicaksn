@@ -1,17 +1,13 @@
 ### Hi Satrio there 👋
 
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+## GitHub Stats 📈
 
-# GitHub Stats 📈
-<a href="https://github.com/satriowicaksn/satriowicaksn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satriowicaksn&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
 <a href="https://github.com/satriowicaksn/satriowicaksn">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satriowicaksn&theme=radical&hide_border=true)](https://github.com/satriowicaksn" alt="Satrio's GitHub Stats Graph"/>
+</a>
+<a href="https://github.com/satriowicaksn">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satriowicaksn&langs_count=8&theme=gruvbox&layout=compact&hide_border=true&title_color=d13979&text_color=c9cacc&bg_color=1d1f21"
+          alt="overall Top Langs " />
 </a>
 <br><br>
 
